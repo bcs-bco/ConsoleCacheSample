@@ -1,0 +1,1 @@
+# ConsoleCacheSample ObjectCahe的Sample
